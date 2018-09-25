@@ -12,7 +12,7 @@
 >php artisan key:generate
 >php artisan server 
 
-#will show u 
+>will show u 
 ---------------------------------
 > PHP 7.2.1 Development Server started at TU Sept 25 19:11:46 2018
 >Listening on http://127.0.1.1:8000
@@ -25,10 +25,9 @@
 
 >[Online](https://serinc.tech/Task/public)
 
-
-For Api Resource:
+>For Api Resource:
 ---------------------------
-https://serinc.tech/Task/public/api/map
+>[API MAP](https://serinc.tech/Task/public/api/map)
 
 >License
 
