@@ -4,7 +4,7 @@
 |Source JSON  
 --------------
 [Source JSON](https://spreadsheets.google.com/feeds/list/0Ai2EnLApq68edEVRNU0xdW9QX1BqQXhHRl9sWDNfQXc/od6/public/basic?alt=json)
-(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "URL")
+
 # How To start type :
 >Composer update --no-scripts
 >cp .env.example .env
