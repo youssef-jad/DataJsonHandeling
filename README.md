@@ -21,11 +21,10 @@
 
 >Express server listening on port 8000  development mode 
 ---------------------------------
-#After that open browser and type 
+>After that open browser and type 
 
-http://127.0.1.1:8000
-#OR
-https://serinc.tech/Task/public
+>[Online](https://serinc.tech/Task/public)
+
 
 For Api Resource:
 ---------------------------
