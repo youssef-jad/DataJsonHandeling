@@ -3,12 +3,9 @@
 ---------------------------------
 |Source JSON  
 --------------
-[Source JSON](https://spreadsheets.google.com/feeds/list/0Ai2EnLApq68edEVRNU0xdW9QX1BqQXhHRl9sWDNfQXc/od6/public/basic?alt=json)
-
-(https://serinc.tech/Task/public/zx.png)
-
-
-[Article End User](https://spreadsheets.google.com/feeds/list/14zFud_rIym9GIqewBXV6mYh-s6hbAGBOIWs1NqAbdik/od6/public/basic)
+>[Source JSON](https://spreadsheets.google.com/feeds/list/0Ai2EnLApq68edEVRNU0xdW9QX1BqQXhHRl9sWDNfQXc/od6/public/basic?alt=json)
+--------------------------------------
+>[Article End User](https://spreadsheets.google.com/feeds/list/14zFud_rIym9GIqewBXV6mYh-s6hbAGBOIWs1NqAbdik/od6/public/basic)
 # How To start type :
 >Composer update --no-scripts
 >cp .env.example .env
