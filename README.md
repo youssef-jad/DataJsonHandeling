@@ -1,6 +1,9 @@
 
 #DataJsonHandeling
 ---------------------------------
+Misssion Start
+Read the feed programmatically and categorize the messages according to the sentiment (field: sentiment) of the message (field: Message). The messages should be displayed on a map and attached to the respective cities mentioned in the message.
+
 #Source JSON  
 ---------------------------------
 >[Source JSON](https://spreadsheets.google.com/feeds/list/0Ai2EnLApq68edEVRNU0xdW9QX1BqQXhHRl9sWDNfQXc/od6/public/basic?alt=json)
@@ -15,7 +18,7 @@
 >will show u 
 ---------------------------------
 > PHP 7.2.1 Development Server started at TU Sept 25 19:11:46 2018
->Listening on http://127.0.1.1:8000
+>Listening on [Local]( http://127.0.0.1:8000)
 >Document root is C:\users\Desktop\DataJsonHandeling
 ?Press Ctrl-C to quit.
 
