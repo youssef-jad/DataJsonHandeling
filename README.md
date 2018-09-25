@@ -30,10 +30,11 @@ Read the feed programmatically and categorize the messages according to the sent
 
 >For Api Resource:
 ---------------------------
+Array Json Message To list Key of Country Array Map in Google Api And List It details longitude and latitude and short name 😄
 >[API MAP](https://serinc.tech/Task/public/api/map)
 
 ![alt tag](http://serinc.tech/Task/public/zx.png "Data Retrive from Api")
 
 #License By:
 -----------------------------------------------------------
->Develope by Dev Ahmed S. Ahmed [coder79](http://coder79.me).
+>Develope by Dev Ahmed S. Ahmed [coder79](http://coder79.me) ❤
