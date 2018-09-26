@@ -31,7 +31,7 @@ class HomeController extends Controller
             //Round Specific Data
             $step_2 = stristr($step_1,", sentiment:","sentiment:");
             //Start Array Location Json
-            $request = file_get_contents("https://maps.googleapis.com/maps/api/geocode/json?address=.$step_2[0].&key=AIzaSyC558kEoz2bc-lVlkpddzdlnJ8vVfcHFBQ");
+            $request = file_get_contents("https://maps.googleapis.com/maps/api/geocode/json?address=.$step_2[0].&key=" . env('GOOGLE_MAP_KEY') );
             // Array Search Location in Json File
             $json = json_decode($request, true);
             // URL To Test https://serinc.tech/Task/public/api/map
