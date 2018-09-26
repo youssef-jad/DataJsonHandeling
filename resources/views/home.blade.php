@@ -180,9 +180,10 @@
             var infoWindow = new
             google.maps.InfoWindow;
             (function () {
+                var BaseUrl = 'https://serinc.tech/Task/public'
                 var f = function () {
                     var marker = new google.maps.Marker();
-                    downloadUrl("https://serinc.tech/Task/public/api/map",
+                    downloadUrl(BaseUrl + "/api/map",
                         function (data) {
                             var json = data.json();
                             var markers = "{{asset('')}}driver_available.png";
